@@ -1,0 +1,7 @@
+numpy==1.26.4
+opencv-contrib-python==4.8.1.78
+pillow==10.3.0
+selenium==4.19.0
+tqdm
+requests
+-e .
